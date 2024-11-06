@@ -16,7 +16,7 @@
    docker-compose up
    ```
 4. Скачайте файл модели по этой [ссылке](https://huggingface.co/IlyaGusev/saiga_llama3_8b_gguf/resolve/main/model-q8_0.gguf?download=true) и поместите его в папку /api/model.
-5. Запустить Docker Redis Image
+5. run container
    ```
    docker start llama-rag-redis-1
    ```
