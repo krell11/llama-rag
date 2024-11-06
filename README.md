@@ -11,7 +11,7 @@
    ```
    pip install -r requirements.txt
    ```
-3. ****
+3. **build docker image**
    ```
    docker-compose up
    ```
