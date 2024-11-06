@@ -1,7 +1,6 @@
 fastapi==0.115.4
 llama_parse==0.5.13
 pydantic==2.9.2
-pymongo==3.11.0
 python-dotenv==1.0.1
 qwen_vl_utils==0.0.8
 redis==5.0.1
