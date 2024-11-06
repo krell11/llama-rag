@@ -30,3 +30,14 @@
    fastapi run api.py
    ```
 8. visit [swagger UI](http://localhost:8000/)
+## Для последующего использования
+
+1. run container
+   ```
+   docker start llama-rag-redis-1
+   ```
+2. start api
+   ```
+   cd api
+   fastapi run api.py
+   ```
